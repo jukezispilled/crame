@@ -104,10 +104,10 @@ function App() {
               <div className=''>
                 <div className='h-auto w-[85dvw] py-10 relative'>
                   <div className='absolute top-3 right-3 flex justify-center items-center space-x-2 md:text-xl'>
-                    <a href="" className='underline'>
+                    <a href="https://x.com/icramsol" className='underline'>
                       Twitter
                     </a>
-                    <a href="" className='underline'>
+                    <a href="https://t.me/icramportal" className='underline'>
                       Telegram
                     </a>
                   </div>
