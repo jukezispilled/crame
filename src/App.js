@@ -12,13 +12,13 @@ const reviews = [
   {
     name: "Ansem",
     username: "@blknoiz06",
-    body: "iCRAM is millions coded. will start shilling on X shortly",
+    body: "CRAMER is millions coded. will start shilling on X shortly",
     img: "ansem.png",
   },
   {
     name: "Ken Griffin",
     username: "@KenGriffin",
-    body: "fund is doubling down on iCRAM. data points up and to the north",
+    body: "fund is doubling down on CRAMER. data points up and to the north",
     img: "ken.png",
   },
   {
@@ -36,13 +36,13 @@ const reviews = [
   {
     name: "Wolf Of Crypto",
     username: "@W0LF0FCRYPT0",
-    body: "here to shill the f*ck out of this. only up. iCRAM is the next 100x",
+    body: "here to shill the f*ck out of this. only up. CRAMER is the next 100x",
     img: "wolf.png",
   },
   {
     name: "Elon Musk",
     username: "@elonmusk",
-    body: "iCRAM might reach mars before me. inverse Cramer is max alpha",
+    body: "CRAMER might reach mars before me. inverse Cramer is max alpha",
     img: "elon.png",
   },
 ];
@@ -88,7 +88,7 @@ function App() {
               <button className='p-1 text-xs md:text-base m-1 bg-zinc-400'>
                 Copy
               </button>
-              <span className='p-1 text-[9px] md:text-base'>7HTFFGxMEGeWRtEXs75T3QzB2pcQwudiYTk62EWTpump</span>
+              <span className='p-1 text-[9px] md:text-base font-semibold'>uploading...</span>
             </Window>
           </div>
           <Window>
@@ -104,11 +104,8 @@ function App() {
               <div className=''>
                 <div className='h-auto w-[85dvw] py-10 relative'>
                   <div className='absolute top-3 right-3 flex justify-center items-center space-x-2 md:text-xl'>
-                    <a href="https://x.com/icramsol" className='underline'>
+                    <a href="https://x.com/" className='underline'>
                       Twitter
-                    </a>
-                    <a href="https://t.me/icramportal" className='underline'>
-                      Telegram
                     </a>
                   </div>
                   <div className='flex justify-center'>
