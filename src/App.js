@@ -88,7 +88,7 @@ function App() {
               <button className='p-1 text-xs md:text-base m-1 bg-zinc-400'>
                 Copy
               </button>
-              <span className='p-1 text-[9px] md:text-base font-semibold'>uploading...</span>
+              <span className='p-1 text-[9px] md:text-base font-semibold'>9TWav8cMJdR4urBr3AJdDpPKshsgRHSxh8KhPoLnpump</span>
             </Window>
           </div>
           <Window>
