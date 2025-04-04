@@ -104,7 +104,7 @@ function App() {
               <div className=''>
                 <div className='h-auto w-[85dvw] py-10 relative'>
                   <div className='absolute top-3 right-3 flex justify-center items-center space-x-2 md:text-xl'>
-                    <a href="https://x.com/" className='underline'>
+                    <a href="https://x.com/InverseCrame" className='underline'>
                       Twitter
                     </a>
                   </div>
